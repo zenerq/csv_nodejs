@@ -24,7 +24,7 @@ fs.createReadStream('Popular_Baby_Names.csv')
         return mostPopularNames.indexOf(c) === index;
     });
     let babyList = (uniqueChars.map((popular) => {
-        return `${popular["Child's First Name"]} : ${popular["Gender"]} : ${popular["Year of Birth"]} : ${popular["Ethnicity"]}`;
+        return `${popular["Child's First Name"]} | ${popular["Gender"]} | ${popular["Year of Birth"]} | ${popular["Ethnicity"]}`;
     }));
     console.log(babyList);
     console.log(`${uniqueChars.length} most popular baby names found`);
