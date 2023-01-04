@@ -1,7 +1,7 @@
 # Most popular baby names in USA
 
 | "NAME \| GENDER \| BIRTH_YEAR \| ETHNICITY",|
-|-----------------------------------------------------------|
+|:---:|
 | "ISABELLA \| FEMALE \| 2011 \| HISPANIC",                 |
 | "ESTHER \| FEMALE \| 2011 \| WHITE NON HISPANIC",         |
 | "ETHAN \| MALE \| 2011 \| ASIAN AND PACIFIC ISLANDER",    |
